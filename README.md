@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com linguagem low code.
-- 🌱 Estudando React Native
+- 🌱 Estudando C# e React
 - 😄 Pronomes: Ele/Dele.
 
 <div>
