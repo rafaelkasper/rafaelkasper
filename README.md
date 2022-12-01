@@ -1,7 +1,7 @@
 ### Hello there!
 
 
-- 🔭 Hoje trabalho com React, C#, Asp.Net e linguagem low code.
+- 🔭 Hoje trabalho com React, Typescript, C# e Asp.Net.
 - 🌱 Estudando C# e React
 - 😄 Pronomes: Ele/Dele.
 
