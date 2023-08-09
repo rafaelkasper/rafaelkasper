@@ -2,8 +2,7 @@
 
 
 - 🔭 Hoje trabalho com React, Typescript, C# e Asp.Net.
-- 🌱 Estudando C# e React
-- 😄 Pronomes: Ele/Dele.
+- 🌱 Estudando Cypress
 
 <div>
   <a href="https://github.com/rafaelkasper">
