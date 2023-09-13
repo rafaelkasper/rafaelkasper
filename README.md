@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/rafaelkasper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"&hide=prs,issues,contribs/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=dark&hide=hack,css,php,html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=dark&hide=hack,css,php,html,starlark,objetive-c,ruby"/>
 </div>
   
   <div style="display: inline_block"><br>
