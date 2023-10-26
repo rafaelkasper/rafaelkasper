@@ -1,8 +1,9 @@
 ### Hello there!
 
 
-- 🔭 Hoje trabalho com React, Typescript, C# e Asp.Net.
-- 🌱 Estudando Cypress
+- 💻 Fullstack Mid-Level Developer.
+- 👨‍🏫 Programming teacher.
+- 🕹️ React, Typescript, C# e Asp.Net.
 
 <div>
   <a href="https://github.com/rafaelkasper">
