@@ -3,7 +3,7 @@
 
 - 💻 Fullstack Mid-Level Developer.
 - 👨‍🏫 Programming teacher.
-- 🕹️ React, Typescript, C# e Asp.Net.
+- 🕹️ React, React Native, Typescript.
 
 <div>
   <a href="https://github.com/rafaelkasper">
