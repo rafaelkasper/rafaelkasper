@@ -10,8 +10,8 @@
 ### Languages 💻
 <div>
   <a href="https://github.com/rafaelkasper">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=jolly">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=jolly&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=400"/>
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=jolly&card_width=32">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=jolly&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=320"/>
 </div>
 
   ##
