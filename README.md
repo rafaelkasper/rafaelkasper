@@ -10,7 +10,7 @@
 ### Languages 💻
 <div>
   <a href="https://github.com/rafaelkasper">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=codeSTACKr"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=codeSTACKr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=dark&hide=hack,php,java,starlark,objective-c,ruby,css"/>
 </div>
 
@@ -35,7 +35,7 @@
 
 ### My social media 📫
 <div>
-  <a href="www.linkedin.com/in/rafael-kasper-08288584" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-kasper-08288584" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:prof.rafaelkasper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelkasper" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
