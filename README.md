@@ -10,10 +10,13 @@
 ### Languages 💻
 <div>
   <a href="https://github.com/rafaelkasper">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=holi&card_width=32">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=holi&card_width=320">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=holi&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=320"/>
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelkasper&repo=23_1_UC15_Senac)](https://github.com/rafaelkasper/23_1_UC15_Senac)
+    <div>
+        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelkasper&repo=23_1_UC15_Senacr&theme=holi&card_width=320">
+    </div>
+    
   ##
   <div style="display: inline_block"><br>
     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />-
