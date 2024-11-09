@@ -14,7 +14,7 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=holi&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=320"/>
 </div>
     <div>
-        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelkasper&repo=23_1_UC15_Senacr&theme=holi&card_width=320">
+        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelkasper&repo=23_1_UC15_Senacrs&theme=holi&card_width=320">
     </div>
     
   ##
