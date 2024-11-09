@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/rafaelkasper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=jolly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=dark&hide=hack,php,java,starlark,objective-c,ruby,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=jolly&hide=hack,php,java,starlark,objective-c,ruby,css"/>
 </div>
 
   ##
