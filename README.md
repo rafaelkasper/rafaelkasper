@@ -1,9 +1,9 @@
 ### Hello there!
 
 
-- 💻 Fullstack Mid-Level Developer.
+- 💻 Fullstack Developer.
 - 👨‍🏫 Programming teacher.
-- 🕹️ React, React Native, Typescript.
+- 🕹️ React, React Native, Typescript, C#.
 
 ##
 
