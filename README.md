@@ -10,7 +10,7 @@
 ### Languages 💻
 <div>
   <a href="https://github.com/rafaelkasper">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&include_all_commits=true&rank_icon=github&theme=holi&card_width=320&custom_title=My GitHub Stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&include_all_commits=true&rank_icon=github&theme=holi&card_width=320">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=holi&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=320"/>
 </div>
     <!--
