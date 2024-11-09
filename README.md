@@ -10,7 +10,7 @@
 ### Languages 💻
 <div>
   <a href="https://github.com/rafaelkasper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=codeSTACKr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&rank_icon=github&theme=jolly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&langs_count=7&theme=dark&hide=hack,php,java,starlark,objective-c,ruby,css"/>
 </div>
 
@@ -28,7 +28,7 @@
     <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />-
     <img align="center" alt="oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />-
     <img align="center" alt="storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />-
-    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />-          
+    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />        
 </div>
 
  ##
