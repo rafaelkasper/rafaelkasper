@@ -13,11 +13,7 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&include_all_commits=true&rank_icon=github&theme=holi&card_width=320">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkasper&layout=compact&theme=holi&hide=hack,php,java,starlark,objective-c,ruby,css&card_width=320"/>
 </div>
-    <!--
-    <div>
-        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelkasper&repo=23_1_UC15_Senac&theme=holi&card_width=320">
-    </div>
-    -->
+
   ##
     
   <div style="display: inline_block"><br>
