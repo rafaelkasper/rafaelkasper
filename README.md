@@ -7,7 +7,7 @@
 
 ##
 
-### Languages 💻
+### Stats 📈
 <div>
   <a href="https://github.com/rafaelkasper">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelkasper&show_icons=true&include_all_commits=true&rank_icon=github&theme=holi&card_width=320">
@@ -15,6 +15,8 @@
 </div>
 
   ##
+  
+  ### Languages 💻
     
   <div style="display: inline_block"><br>
     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />-
