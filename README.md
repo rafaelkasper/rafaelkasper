@@ -1,6 +1,10 @@
 ### Hi, I'm Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 My specialty is developing Android and iOS Mobile Apps with React Native.
 
+- 💻 Fullstack Developer.
+- 🕹️ React, Typescript and C#.
+- 👨‍🏫 Programming teacher.
+
 ##
 
 ### Stats 📈
