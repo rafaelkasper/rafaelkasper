@@ -2,7 +2,7 @@
 My specialty is developing Android and iOS Mobile Apps with React Native.
 
 - 💻 Fullstack Developer.
-- 🕹️ React, Typescript and C#.
+- 🕹️ React, React Native, Typescript and C#.
 - 👨‍🏫 Programming teacher.
 
 ##
